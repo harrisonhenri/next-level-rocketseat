@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/ecoleta.png" width="100%">
+  <img alt="Ecoleta" src="assets/ecoleta.png" width="100%">
 </p>
 
 ## About this Project
